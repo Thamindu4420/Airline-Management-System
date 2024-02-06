@@ -1,0 +1,36 @@
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.deps.json
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.dll
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.pdb
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.AssemblyReference.cache
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfoInputs.cache
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfo.cs
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.CoreCompileInputs.cache
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.dll
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\refint\RaythosAerospace.Utility.dll
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.pdb
+D:\Shan\C#\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky_MVC-15a896555835fae1482fb1536e549dc132c92249\Bulky.Utility\obj\Release\net8.0\ref\RaythosAerospace.Utility.dll
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.deps.json
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.dll
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.pdb
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.AssemblyReference.cache
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfoInputs.cache
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfo.cs
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.CoreCompileInputs.cache
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.dll
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\refint\RaythosAerospace.Utility.dll
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.pdb
+D:\Shan\C#\RaythosAerospace\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\ref\RaythosAerospace.Utility.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.deps.json
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\bin\Release\net8.0\RaythosAerospace.Utility.pdb
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.AssemblyReference.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfoInputs.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.AssemblyInfo.cs
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.csproj.CoreCompileInputs.cache
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\refint\RaythosAerospace.Utility.dll
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\RaythosAerospace.Utility.pdb
+C:\Users\THAMINDU\Documents\Visual Studio Projects\RaythosAerospace\Bulky.Utility\obj\Release\net8.0\ref\RaythosAerospace.Utility.dll
